@@ -1,0 +1,2 @@
+hi this is new git file added text to it for testing
+welcome to git repository
